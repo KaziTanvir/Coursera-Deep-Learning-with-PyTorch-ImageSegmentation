@@ -9,5 +9,5 @@ Objectives:
   
   
 
-Course link: https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation
+Course link: https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation <br>
 Dataset link: https://github.com/VikramShenoy97/Human-Segmentation-Dataset
